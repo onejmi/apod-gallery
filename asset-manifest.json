@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apod-gallery/static/css/main.073c9b0a.css",
+    "main.js": "/apod-gallery/static/js/main.e961fa9c.js",
+    "static/js/787.c94afb63.chunk.js": "/apod-gallery/static/js/787.c94afb63.chunk.js",
+    "index.html": "/apod-gallery/index.html",
+    "main.073c9b0a.css.map": "/apod-gallery/static/css/main.073c9b0a.css.map",
+    "main.e961fa9c.js.map": "/apod-gallery/static/js/main.e961fa9c.js.map",
+    "787.c94afb63.chunk.js.map": "/apod-gallery/static/js/787.c94afb63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e961fa9c.js"
+  ]
+}
