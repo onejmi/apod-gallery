@@ -3,7 +3,7 @@ import './App.css';
 import {useEffect, useState} from "react";
 import { retrieveApodPosts } from "./api/nasa-api";
 import PostGallery from "./component/PostGallery";
-import {Center, CircularProgress} from "@chakra-ui/react";
+import { Center, CircularProgress, Heading } from "@chakra-ui/react";
 import Pagination from "@choc-ui/paginator";
 
 function App() {
@@ -28,6 +28,9 @@ function App() {
 
   return (
       <div>
+          <Center>
+              <Heading marginY={'18px'}>Spacestagram</Heading>
+          </Center>
           {loading ? <Center h={"90vh"}>
                         <CircularProgress isIndeterminate color='blue.300' />
                      </Center> :
