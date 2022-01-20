@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/apod-gallery/static/css/main.073c9b0a.css",
-    "main.js": "/apod-gallery/static/js/main.f6f3a357.js",
+    "main.js": "/apod-gallery/static/js/main.5ec18a3e.js",
     "static/js/787.c94afb63.chunk.js": "/apod-gallery/static/js/787.c94afb63.chunk.js",
     "index.html": "/apod-gallery/index.html",
     "main.073c9b0a.css.map": "/apod-gallery/static/css/main.073c9b0a.css.map",
-    "main.f6f3a357.js.map": "/apod-gallery/static/js/main.f6f3a357.js.map",
+    "main.5ec18a3e.js.map": "/apod-gallery/static/js/main.5ec18a3e.js.map",
     "787.c94afb63.chunk.js.map": "/apod-gallery/static/js/787.c94afb63.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f6f3a357.js"
+    "static/js/main.5ec18a3e.js"
   ]
 }
