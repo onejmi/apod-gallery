@@ -34,6 +34,7 @@ function NasaCard(props) {
                         src={props.post.imageUrl}
                         fallbackSrc='https://via.placeholder.com/500'
                         layout={'fill'}
+                        alt={props.post.title}
                     />
                 </Center>
             </Box>
