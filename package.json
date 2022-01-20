@@ -2,6 +2,7 @@
   "name": "shopify-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://onejmi.github.io/apod-gallery",
   "dependencies": {
     "@chakra-ui/react": "^1.7.4",
     "@choc-ui/paginator": "^3.2.2",
